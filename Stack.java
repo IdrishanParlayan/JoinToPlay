@@ -1,6 +1,7 @@
 
 public class Stack 
 {
+	selam rıdo;
 	private int top;
 	private Object[] elements;
 	
